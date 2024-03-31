@@ -1,0 +1,49 @@
+body{
+    margin-top: 7rem;
+    align-items: center;
+    background-image:image-set("zz.jpg");
+    background-color: rgb(243, 199, 246);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.profile{
+    margin-left: 30%;
+    border: 2px;
+    width: 400px;
+    height: 300px;
+
+}
+
+img{
+    margin-left: 30%;
+    padding-top: 10px;
+    border-radius: 50%; 
+}
+h1{
+    margin-left: 25%;
+    color: rgb(253, 243, 243);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.info{
+    margin-left: 18%;
+    width: 50rem;
+    height: 10rem;
+}
+table{
+    margin-top: 2rem;
+}
+
+.top{
+    background-color: rgb(241, 92, 150);
+    padding: 22px;
+}
+.t2{
+    background-color: rgb(40, 42, 32);
+    color: aliceblue;
+}
+th{
+    padding: 12px;
+    width: 50rem;
+}
